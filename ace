@@ -1,0 +1,1 @@
+var Wallet = require('simplebtc').Wallet;
